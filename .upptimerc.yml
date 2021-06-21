@@ -5,10 +5,11 @@ user-agent: BuyProperlyBot
 sites:
   - name: BuyProperly App
     url: https://www.buyproperly.ca
+    icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png
     assignees:
       - ashwamegh
   - name: BuyProperly Server
-    logo: https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png
+    icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png
     method: POST
     url: $SERVER_SITE
     maxResponseTime: 5000
