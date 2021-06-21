@@ -22,19 +22,19 @@
     "url": "$SERVER_SITE",
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png",
     "slug": "buy-properly-server",
-    "status": "down",
-    "uptime": "22.96%",
-    "uptimeDay": "22.96%",
-    "uptimeWeek": "22.96%",
-    "uptimeMonth": "22.96%",
-    "uptimeYear": "22.96%",
-    "time": 83,
-    "timeDay": 83,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "status": "up",
+    "uptime": "20.57%",
+    "uptimeDay": "20.57%",
+    "uptimeWeek": "20.57%",
+    "uptimeMonth": "20.57%",
+    "uptimeYear": "20.57%",
+    "time": 79,
+    "timeDay": 79,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2021-06-21": 55
+      "2021-06-21": 63
     }
   }
 ]
