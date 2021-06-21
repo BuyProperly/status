@@ -2,6 +2,8 @@
 
 **BuyProperly** (https://buyproperly.ca) _lets you invest in real estate to grow and diversify your wealth without traditional upfront costs_. **Starting at $2500**, our AI-powered platform helps you achieve above-human performance earning monthly rental income, as well as capital appreciation.
 
+## [📈 Live Status](https://status.factoryplus.in): <!--live status--> **🟩 All systems operational**
+
 [![Uptime CI](https://github.com/buyproperly/status/workflows/Uptime%20CI/badge.svg)](https://github.com/buyproperly/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/buyproperly/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/buyproperly/status/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/buyproperly/status/workflows/Graphs%20CI/badge.svg)](https://github.com/buyproperly/status/actions?query=workflow%3A%22Graphs+CI%22)
