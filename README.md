@@ -19,6 +19,7 @@
 
 <!--end: status pages-->
 
+<br/>
 <p align="center">
   <a href="https://buyproperly.ca/">
     <img width="44" alt="Koj" src="https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png">
