@@ -1,5 +1,6 @@
 owner: buyproperly
 repo: status
+user-agent: BuyProperlyBot
 
 sites:
   - name: BuyProperly App
@@ -8,10 +9,9 @@ sites:
       - ashwamegh
   - name: BuyProperly Server
     method: POST
-    url: $SERVER_SITE
+    # url: $SERVER_SITE
+    url: https://buy-properly-alpha.herokuapp.com/api/search/v1
     maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
     assignees:
       - ashwamegh
 
