@@ -1,10 +1,7 @@
 # [![BuyProperly](https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png)](https://buyproperly.ca)
 
-<!--start: description-->
-
 **BuyProperly** (https://buyproperly.ca) *lets you invest in real estate to grow and diversify your wealth without traditional upfront costs*. **Starting at $2500**, our AI-powered platform helps you achieve above-human performance earning monthly rental income, as well as capital appreciation. 
 
-<!--end: description-->
 
 [![Uptime CI](https://github.com/upptime/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/upptime/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -27,11 +24,6 @@
 
 <!--end: status pages-->
 
-## 📄 License
-
-- Code: [MIT](./LICENSE)
-
-<!--start: logo-->
 <p align="center">
   <a href="https://buyproperly.ca/">
     <img width="44" alt="Koj" src="https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png">
@@ -40,4 +32,3 @@
 <p align="center">
   <sub><a href="https://buyproperly.ca/">Real Estate investing made for you. Starting at $2500 →</a></sub>
 </p>
-<!--end: logo-->
