@@ -1,6 +1,5 @@
-# Change these first
-owner: ashwamegh # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: buyproperly
+repo: status
 
 sites:
   - name: BuyProperly App
@@ -19,12 +18,9 @@ sites:
       - krrajiv
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.buyproperly.ca
-  # baseUrl: /your-repo-name
   logoUrl: https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png
-  name: BuyProperly Status
+  name: Status
   introTitle: "**BuyProperly** lets you invest in real estate to grow and diversify your wealth without traditional upfront costs."
   introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
@@ -36,8 +32,5 @@ status-website:
   metaTags:
     - name: "color-scheme"
       content: "dark light"
-    - name: "robots"
-      content: "noindex"
-  robotsText: "User-agent: * \n Disallow: /"
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - name: "description"
+      content: "Welcome to BuyProperly's home for real-time and historical data on system performance."
