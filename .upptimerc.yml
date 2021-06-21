@@ -8,8 +8,13 @@ sites:
     assignees:
       - ashwamegh
   - name: BuyProperly Server
-    url: https://www.buyproperly.ca/api/search/v1
+    url: $SERVER_SITE
     method: POST
+    headers:
+    - "Content-Type: application/json"
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
     assignees:
       - krrajiv
 
@@ -27,6 +32,12 @@ status-website:
       href: https://buyproperly.ca/properties
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  favicon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
+  robotsText: "User-agent: * \n Disallow: /"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
