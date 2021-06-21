@@ -7,22 +7,20 @@ sites:
     assignees:
       - ashwamegh
   - name: BuyProperly Server
-    url: $SERVER_SITE
     method: POST
-    headers:
-    - "Content-Type: application/json"
+    url: $SERVER_SITE
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
     assignees:
-      - krrajiv
+      - ashwamegh
 
 status-website:
   cname: status.buyproperly.ca
   logoUrl: https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png
   name: Status
   introTitle: "**BuyProperly** lets you invest in real estate to grow and diversify your wealth without traditional upfront costs."
-  introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status).
   navbar:
     - title: Properties
       href: https://buyproperly.ca/properties
