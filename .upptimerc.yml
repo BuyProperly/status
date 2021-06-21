@@ -8,10 +8,17 @@ sites:
     icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
     assignees:
       - ashwamegh
+      - krrajiv
   - name: BuyProperly Server
     icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
     method: POST
     url: $SERVER_SITE
+    assignees:
+      - ashwamegh
+      - krrajiv
+  - name: BuyProperly Blog
+    icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
+    url: https://blog.buyproperly.ca
     assignees:
       - ashwamegh
 
