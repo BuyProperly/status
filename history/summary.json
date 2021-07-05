@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 308,
-    "timeWeek": 425,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "time": 407,
+    "timeDay": 428,
+    "timeWeek": 445,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png",
     "slug": "buy-properly-server",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 75,
-    "timeDay": 91,
-    "timeWeek": 70,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 76,
+    "timeDay": 85,
+    "timeWeek": 75,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
       "2021-06-21": 63
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2197,
-    "timeDay": 2098,
-    "timeWeek": 2189,
-    "timeMonth": 2197,
-    "timeYear": 2197,
+    "time": 2208,
+    "timeDay": 2365,
+    "timeWeek": 2262,
+    "timeMonth": 2208,
+    "timeYear": 2208,
     "dailyMinutesDown": {}
   }
 ]
