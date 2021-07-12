@@ -42,19 +42,19 @@
     "url": "https://blog.buyproperly.ca",
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png",
     "slug": "buy-properly-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2333,
-    "timeDay": 2839,
-    "timeWeek": 2618,
-    "timeMonth": 2333,
-    "timeYear": 2333,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 2454,
+    "timeDay": 4044,
+    "timeWeek": 2947,
+    "timeMonth": 2454,
+    "timeYear": 2454,
     "dailyMinutesDown": {
-      "2021-07-12": 0
+      "2021-07-12": 37
     }
   }
 ]
