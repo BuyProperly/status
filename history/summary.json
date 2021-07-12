@@ -23,11 +23,11 @@
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png",
     "slug": "buy-properly-server",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 83,
     "timeDay": 95,
     "timeWeek": 112,
@@ -42,9 +42,9 @@
     "url": "https://blog.buyproperly.ca",
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png",
     "slug": "buy-properly-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 2618,
     "timeMonth": 2333,
     "timeYear": 2333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   }
 ]
