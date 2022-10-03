@@ -5,15 +5,15 @@
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png",
     "slug": "buy-properly-app",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 413,
-    "timeDay": 196,
-    "timeWeek": 376,
-    "timeMonth": 344,
+    "timeDay": 217,
+    "timeWeek": 346,
+    "timeMonth": 341,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2022-08-18": 149,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 171,
-    "timeDay": 73,
-    "timeWeek": 132,
+    "timeDay": 76,
+    "timeWeek": 116,
     "timeMonth": 114,
-    "timeYear": 174,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2022-08-18": 149,
       "2022-08-16": 172,
@@ -63,8 +63,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
     "time": 1160,
-    "timeDay": 1173,
-    "timeWeek": 1146,
+    "timeDay": 1205,
+    "timeWeek": 1201,
     "timeMonth": 1176,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -79,8 +79,7 @@
       "2021-10-24": 6,
       "2021-10-14": 15,
       "2021-10-07": 11,
-      "2021-10-05": 10,
-      "2021-10-03": 29
+      "2021-10-05": 10
     }
   }
 ]
