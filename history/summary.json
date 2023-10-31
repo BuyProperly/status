@@ -46,18 +46,19 @@
     "url": "https://blog.buyproperly.ca",
     "icon": "https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png",
     "slug": "buy-properly-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 435,
-    "timeWeek": 627,
-    "timeMonth": 486,
-    "timeYear": 482,
+    "time": 678,
+    "timeDay": 301,
+    "timeWeek": 570,
+    "timeMonth": 476,
+    "timeYear": 481,
     "dailyMinutesDown": {
+      "2023-10-31": 0,
       "2023-06-21": 24
     }
   }
