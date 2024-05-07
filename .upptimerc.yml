@@ -8,23 +8,23 @@ sites:
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     assignees:
       - krrajiv
-  - name: BuyProperly App Canada
+  - name: BuyProperly Canada
     url: https://www.buyproperly.ai/ca
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     assignees:
       - krrajiv
-  - name: BuyProperly App USA
+  - name: BuyProperly USA
     url: https://www.buyproperly.ai/us
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     assignees:
       - krrajiv
-  - name: BuyProperly Server Canada
+  - name: BuyProperly App Canada
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     method: POST
     url: https://app.buyproperly.ca/api/examples
     assignees:
       - krrajiv
-  - name: BuyProperly Server USA
+  - name: BuyProperly App USA
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     method: POST
     url: https://app.buyproperly.com/api/examples
