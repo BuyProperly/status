@@ -3,50 +3,64 @@ repo: status
 user-agent: BuyProperlyBot
 
 sites:
-  - name: BuyProperly App
-    url: https://www.buyproperly.ca
-    icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
+  - name: BuyProperly AI
+    url: https://www.buyproperly.ai
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     assignees:
-      - ashwamegh
       - krrajiv
-  - name: BuyProperly Server
-    icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
-    method: POST
-    url: $SERVER_SITE
+  - name: BuyProperly App Canada
+    url: https://www.buyproperly.ai/ca
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     assignees:
-      - ashwamegh
+      - krrajiv
+  - name: BuyProperly App USA
+    url: https://www.buyproperly.ai/us
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
+    assignees:
+      - krrajiv
+  - name: BuyProperly Server Canada
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
+    method: POST
+    url: https://app.buyproperly.ca/api/examples
+    assignees:
+      - krrajiv
+  - name: BuyProperly Server USA
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
+    method: POST
+    url: https://app.buyproperly.com/api/examples
+    assignees:
       - krrajiv
   - name: BuyProperly Blog
-    icon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
-    url: https://blog.buyproperly.ca
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
+    url: https://buyproperly.ai/blog/
     assignees:
-      - ashwamegh
+      - krrajiv
 
 status-website:
-  cname: status.buyproperly.ca
-  logoUrl: https://res.cloudinary.com/hv768g3im/image/upload/v1624260653/bp-assets/Logo_qfsqp1.png
+  cname: status.buyproperly.ai
+  logoUrl: https://cdn-img.buyproperly.com/company/Logo-other.png
   name: Status
-  introTitle: "**BuyProperly** lets you invest in real estate to grow and diversify your wealth without traditional upfront costs."
+  introTitle: '**BuyProperly** lets you invest in real estate to grow and diversify your wealth without traditional upfront costs.'
   introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status).
-  navbar:
-    - title: Properties
-      href: https://buyproperly.ca/properties
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  favicon: https://res.cloudinary.com/hv768g3im/image/upload/v1624262522/bp-assets/bp_logo_512-removebg-preview_lrpfnz.png
+  # navbar:
+  #   - title: Properties
+  #     href: https://buyproperly.ai/properties
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
+  favicon: https://cdn-img.buyproperly.com/company/favicon-48.png
   metaTags:
-    - name: "color-scheme"
-      content: "dark light"
-    - name: "description"
+    - name: 'color-scheme'
+      content: 'dark light'
+    - name: 'description'
       content: "Welcome to BuyProperly's home for real-time and historical data on system performance."
 commitMessages:
-  commitAuthorName: "BuyProperly Bot"
-  commitAuthorEmail: "engineering@buyproperly.ca"
+  commitAuthorName: 'BuyProperly Bot'
+  commitAuthorEmail: 'engineering@buyproperly.ca'
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  graphs: '0 0 * * *'
+  responseTime: '0 23 * * *'
+  staticSite: '0 1 * * *'
+  summary: '0 0 * * *'
+  updateTemplate: '0 0 * * *'
+  updates: '0 3 * * *'
+  uptime: '*/5 * * * *'
