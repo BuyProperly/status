@@ -20,14 +20,14 @@ sites:
       - krrajiv
   - name: BuyProperly App Canada
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
-    method: POST
-    url: https://app.buyproperly.ca
+    method: GET
+    url: https://app.buyproperly.ca/api/examples
     assignees:
       - krrajiv
   - name: BuyProperly App USA
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
-    method: POST
-    url: https://app.buyproperly.com
+    method: GET
+    url: https://app.buyproperly.com/api/examples
     assignees:
       - krrajiv
   - name: BuyProperly Blog
