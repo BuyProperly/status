@@ -37,6 +37,8 @@ sites:
       - krrajiv
 
 status-website:
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: dark
   cname: status.buyproperly.ai
   logoUrl: https://cdn-img.buyproperly.com/company/Logo-other.png
   name: Status
@@ -49,8 +51,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   favicon: https://cdn-img.buyproperly.com/company/favicon-48.png
   metaTags:
-    - name: 'color-scheme'
-      content: 'dark light'
+    - name: 'robots'
+      content: 'noindex'
     - name: 'description'
       content: "Welcome to BuyProperly's home for real-time and historical data on system performance."
 commitMessages:
