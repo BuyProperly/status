@@ -1,6 +1,6 @@
 # [![BuyProperly](https://cdn-img.buyproperly.com/company/Logo-other.png)](https://buyproperly.ai)
 
-**BuyProperly** (https://buyproperly.ai) _lets you invest in real estate to grow and diversify your wealth without traditional upfront costs_. **Starting at $2500**, our AI-powered platform helps you achieve above-human performance earning monthly rental income, as well as capital appreciation.
+**BuyProperly** (https://buyproperly.ai) _lets you access high-yield alternative investment opportunities in real estate, private credit, private equity, hedge funds, and venture capital at BuyProperly. Start with just $2,500._. **Starting at $2500**, our AI-powered platform helps you achieve above-human performance earning monthly rental income, as well as capital appreciation.
 
 [![Uptime CI](https://github.com/buyproperly/status/workflows/Uptime%20CI/badge.svg)](https://github.com/buyproperly/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/buyproperly/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/buyproperly/status/actions?query=workflow%3A%22Response+Time+CI%22)

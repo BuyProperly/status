@@ -40,7 +40,7 @@ status-website:
   cname: status.buyproperly.ai
   logoUrl: https://cdn-img.buyproperly.com/company/Logo-other.png
   name: Status
-  introTitle: '**BuyProperly** lets you invest in real estate to grow and diversify your wealth without traditional upfront costs.'
+  introTitle: '**BuyProperly** lets you access high-yield alternative investment opportunities in real estate, private credit, private equity, hedge funds, and venture capital at BuyProperly. Start with just $2,500.'
   introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status).
   navbar:
     # - title: Properties
