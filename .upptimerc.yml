@@ -27,7 +27,7 @@ sites:
   - name: BuyProperly App USA
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     method: GET
-    url: https://app.buyproperly.com/api/examples
+    url: https://app.buyproperly.com
     assignees:
       - krrajiv
   - name: BuyProperly Blog
@@ -42,11 +42,11 @@ status-website:
   name: Status
   introTitle: '**BuyProperly** lets you invest in real estate to grow and diversify your wealth without traditional upfront costs.'
   introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status).
-  # navbar:
-  #   - title: Properties
-  #     href: https://buyproperly.ai/properties
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+  navbar:
+    # - title: Properties
+    #   href: https://buyproperly.ai/properties
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
   favicon: https://cdn-img.buyproperly.com/company/favicon-48.png
   metaTags:
     - name: 'color-scheme'
