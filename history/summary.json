@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 443,
+    "time": 524,
+    "timeDay": 483,
     "timeWeek": 521,
-    "timeMonth": 509,
-    "timeYear": 525,
+    "timeMonth": 511,
+    "timeYear": 524,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 49,
-    "timeWeek": 115,
+    "time": 135,
+    "timeDay": 76,
+    "timeWeek": 118,
     "timeMonth": 112,
-    "timeYear": 137,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 102,
-    "timeWeek": 123,
+    "time": 99,
+    "timeDay": 78,
+    "timeWeek": 128,
     "timeMonth": 92,
-    "timeYear": 100,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 392,
-    "timeWeek": 321,
-    "timeMonth": 249,
-    "timeYear": 243,
+    "time": 241,
+    "timeDay": 159,
+    "timeWeek": 291,
+    "timeMonth": 248,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 364,
-    "timeWeek": 302,
-    "timeMonth": 219,
-    "timeYear": 214,
+    "time": 212,
+    "timeDay": 111,
+    "timeWeek": 270,
+    "timeMonth": 218,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -101,13 +101,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 391,
-    "timeDay": 41,
-    "timeWeek": 154,
-    "timeMonth": 140,
-    "timeYear": 347,
+    "timeDay": 58,
+    "timeWeek": 147,
+    "timeMonth": 133,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-10-31": 532,
-      "2023-06-21": 24
+      "2023-10-31": 532
     }
   }
 ]
