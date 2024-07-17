@@ -58,18 +58,20 @@
     "url": "https://app.buyproperly.ca/api/examples",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-app-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 203,
-    "timeWeek": 287,
-    "timeMonth": 262,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 377,
+    "timeDay": 5190,
+    "timeWeek": 1523,
+    "timeMonth": 582,
+    "timeYear": 377,
+    "dailyMinutesDown": {
+      "2024-07-17": 1
+    }
   },
   {
     "name": "BuyProperly App USA",
@@ -77,18 +79,18 @@
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-app-usa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 218,
     "timeDay": 186,
     "timeWeek": 259,
     "timeMonth": 228,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-17": 0
+      "2024-07-17": 14
     }
   },
   {
