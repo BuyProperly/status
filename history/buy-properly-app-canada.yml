@@ -1,7 +1,7 @@
 url: https://app.buyproperly.ca/api/examples
-status: down
-code: 504
-responseTime: 10176
-lastUpdated: 2024-07-17T08:35:06.516Z
+status: up
+code: 200
+responseTime: 212
+lastUpdated: 2024-07-17T08:52:55.916Z
 startTime: 2024-05-07T09:38:59.860Z
 generator: Upptime <https://github.com/upptime/upptime>
