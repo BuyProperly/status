@@ -76,9 +76,9 @@
     "url": "https://app.buyproperly.com",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-app-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 259,
     "timeMonth": 228,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-17": 0
+    }
   },
   {
     "name": "BuyProperly Blog",
