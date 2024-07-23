@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 392,
-    "timeWeek": 553,
-    "timeMonth": 559,
-    "timeYear": 536,
+    "time": 535,
+    "timeDay": 508,
+    "timeWeek": 498,
+    "timeMonth": 565,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 63,
-    "timeWeek": 82,
-    "timeMonth": 143,
-    "timeYear": 136,
+    "time": 137,
+    "timeDay": 230,
+    "timeWeek": 102,
+    "timeMonth": 149,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 55,
-    "timeWeek": 87,
-    "timeMonth": 134,
+    "timeDay": 61,
+    "timeWeek": 70,
+    "timeMonth": 128,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 367,
-    "timeDay": 202,
-    "timeWeek": 1479,
+    "time": 365,
+    "timeDay": 169,
+    "timeWeek": 1450,
     "timeMonth": 569,
-    "timeYear": 367,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2024-07-17": 18
     }
@@ -79,16 +79,16 @@
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-app-usa",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.65%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.78%",
-    "time": 213,
-    "timeDay": 146,
-    "timeWeek": 180,
-    "timeMonth": 206,
-    "timeYear": 213,
+    "uptimeYear": "99.79%",
+    "time": 212,
+    "timeDay": 124,
+    "timeWeek": 145,
+    "timeMonth": 205,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-07-17": 236
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 372,
-    "timeDay": 90,
-    "timeWeek": 93,
-    "timeMonth": 162,
-    "timeYear": 308,
+    "time": 370,
+    "timeDay": 46,
+    "timeWeek": 70,
+    "timeMonth": 160,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2023-10-31": 532
     }
