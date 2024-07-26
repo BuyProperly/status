@@ -5,37 +5,37 @@
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-ai",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 533,
     "timeDay": 382,
     "timeWeek": 492,
     "timeMonth": 545,
     "timeYear": 533,
-    "dailyMinutesDown": {
-      "2024-07-26": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BuyProperly Canada",
     "url": "https://www.buyproperly.ai/ca",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 225,
-    "timeWeek": 143,
-    "timeMonth": 142,
-    "timeYear": 138,
-    "dailyMinutesDown": {}
+    "time": 172,
+    "timeDay": 1627,
+    "timeWeek": 504,
+    "timeMonth": 238,
+    "timeYear": 172,
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "BuyProperly USA",
