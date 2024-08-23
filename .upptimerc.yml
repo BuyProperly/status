@@ -21,7 +21,7 @@ sites:
   - name: BuyProperly App Canada
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     method: GET
-    url: https://app.buyproperly.ca/api/examples
+    url: https://app.buyproperly.ca
     assignees:
       - krrajiv
   - name: BuyProperly App USA
