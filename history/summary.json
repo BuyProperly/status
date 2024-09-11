@@ -22,19 +22,19 @@
     "url": "https://www.buyproperly.ai/ca",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 168,
-    "timeDay": 177,
-    "timeWeek": 181,
-    "timeMonth": 171,
+    "timeDay": 154,
+    "timeWeek": 173,
+    "timeMonth": 169,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 9
     }
   },
   {
