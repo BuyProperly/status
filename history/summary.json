@@ -4,19 +4,19 @@
     "url": "https://www.buyproperly.ai",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 5377,
-    "timeWeek": 1816,
-    "timeMonth": 869,
+    "timeDay": 3779,
+    "timeWeek": 1679,
+    "timeMonth": 860,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.buyproperly.ai/ca",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 45,
-    "timeWeek": 174,
-    "timeMonth": 176,
-    "timeYear": 168,
+    "time": 167,
+    "timeDay": 56,
+    "timeWeek": 166,
+    "timeMonth": 174,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.buyproperly.ai/us",
     "icon": "https://cdn-img.buyproperly.com/company/favicon-48.png",
     "slug": "buy-properly-usa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 1667,
-    "timeWeek": 532,
-    "timeMonth": 211,
-    "timeYear": 132,
+    "time": 131,
+    "timeDay": 1129,
+    "timeWeek": 479,
+    "timeMonth": 206,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 7
     }
   },
   {
