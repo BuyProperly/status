@@ -23,6 +23,18 @@ sites:
     url: https://buyproperly.ai/blog/
     assignees:
       - krrajiv
+  - name: BuyProperly App Canada
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
+    method: GET
+    url: https://app.buyproperly.ca
+    assignees:
+      - krrajiv
+  - name: BuyProperly App USA
+    icon: https://cdn-img.buyproperly.com/company/favicon-48.png
+    method: GET
+    url: https://app.buyproperly.com
+    assignees:
+      - krrajiv
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
@@ -30,7 +42,7 @@ status-website:
   cname: status.buyproperly.ai
   logoUrl: https://cdn-img.buyproperly.com/company/Logo-other.png
   name: Status
-  introTitle: '**BuyProperly** lets you access high-yield alternative investment opportunities in real estate, private credit, private equity, hedge funds, and venture capital at BuyProperly. Start with just $2,500.'
+  introTitle: 'BuyProperly lets you access high-yield alternative investment opportunities in real estate, private credit, private equity, hedge funds, and venture capital at BuyProperly. Start with just $2,500.'
   introMessage: This is BuyProperly status page which uses **real-time** data from our [GitHub repository](https://github.com/buyproperly/status).
   navbar:
     # - title: Properties
