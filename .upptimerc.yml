@@ -26,13 +26,13 @@ sites:
   - name: BuyProperly App Canada
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     method: GET
-    url: https://app.buyproperly.ca
+    url: https://ashtademoca.buyproperly.ai/
     assignees:
       - krrajiv
   - name: BuyProperly App USA
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     method: GET
-    url: https://app.buyproperly.com
+    url: https://ashtademous.buyproperly.ai/
     assignees:
       - krrajiv
 
