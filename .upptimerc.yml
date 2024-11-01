@@ -18,18 +18,6 @@ sites:
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     assignees:
       - krrajiv
-  # - name: BuyProperly App Canada
-  #   icon: https://cdn-img.buyproperly.com/company/favicon-48.png
-  #   method: GET
-  #   url: https://app.buyproperly.ca
-  #   assignees:
-  #     - krrajiv
-  # - name: BuyProperly App USA
-  #   icon: https://cdn-img.buyproperly.com/company/favicon-48.png
-  #   method: GET
-  #   url: https://app.buyproperly.com
-  #   assignees:
-  #     - krrajiv
   - name: BuyProperly Blog
     icon: https://cdn-img.buyproperly.com/company/favicon-48.png
     url: https://buyproperly.ai/blog/
